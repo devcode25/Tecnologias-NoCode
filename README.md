@@ -19,7 +19,7 @@ Aqui está a lista organizada com as informações relevantes e links para tutor
    - **Site**: [SimplyBook](https://simplybook.me/)
    - **Descrição**: Sistema de agendamento online voltado para negócios e consultorias, com opções para integrar pagamentos e gerenciar reservas.
    - **Planos**: Possui um plano gratuito com funcionalidades básicas.
-   - **Tutorial**: [Como configurar sua conta no SimplyBook](https://simplybook.me/en/tutorial)
+   - **Tutorial**: [Como configurar sua conta no SimplyBook](https://simplybook.net/pt/benefits-scheduling-software)
 
 ---
 
