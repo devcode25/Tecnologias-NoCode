@@ -35,7 +35,7 @@ Aqui está a lista organizada com as informações relevantes e links para tutor
    - **Site**: [Pipedrive](https://www.pipedrive.com/)
    - **Descrição**: Ferramenta de CRM para gerenciar o funil de vendas e organizar contatos.
    - **Planos**: Plano limitado gratuito para teste e planos pagos com mais recursos.
-   - **Tutorial**: [Introdução ao Pipedrive](https://support.pipedrive.com/en/article/getting-started-guide)
+   - **Tutorial**: [Introdução ao Pipedrive](https://support.pipedrive.com/pt/article/how-to-videos-a-pretty-good-overview-of-pipedrive)
 
 ---
 
@@ -43,7 +43,7 @@ Aqui está a lista organizada com as informações relevantes e links para tutor
    - **Site**: [HubSpot](https://www.hubspot.com/)
    - **Descrição**: Plataforma completa de CRM e automação de marketing, com várias ferramentas para gerenciar o relacionamento com clientes.
    - **Planos**: Possui plano gratuito com funcionalidades básicas de CRM.
-   - **Tutorial**: [Guia de introdução ao HubSpot](https://academy.hubspot.com/get-started)
+   - **Tutorial**: [Guia de introdução ao HubSpot](https://br.hubspot.com/ofertas/how-to-use-hubspot)
 
 ---
 
